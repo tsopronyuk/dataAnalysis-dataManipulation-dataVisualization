@@ -1,4 +1,4 @@
-**The Report**
+**Data Analysis, Data Manipulation, Data Visualization, Algorithm Design and Implementation**
 
 In this project we demonstrate data analysis, data manipulation, data visualization, algorithm design and implementation.
 
