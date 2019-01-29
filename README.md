@@ -45,6 +45,8 @@ The Players Analysis Program:
 
 We create 3 plots:
 
+<img width="1013" alt="screen shot 2018-12-02 at 16 48 37" src="https://user-images.githubusercontent.com/12331549/51906269-74b79680-23cc-11e9-8c8d-b20c823b74c8.png">
+
  
 This is the part of the result from command window:
 
